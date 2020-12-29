@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/HandlerLayout.js": "/HandlerLayout.js",
+    "/AuthView.js": "/AuthView.js",
+    "/vendors~HandlerLayout.js": "/vendors~HandlerLayout.js",
+    "/vendors~AuthView~HandlerLayout.js": "/vendors~AuthView~HandlerLayout.js",
+    "/LoginForm.js": "/LoginForm.js",
+    "/RegisterForm.js": "/RegisterForm.js",
+    "/TopBar.js": "/TopBar.js",
+    "/HomeView.js": "/HomeView.js",
+    "/vendors~LoginForm.js": "/vendors~LoginForm.js",
+    "/vendors~LoginForm~RegisterForm.js": "/vendors~LoginForm~RegisterForm.js",
+    "/vendors~HomeView~LoginForm~RegisterForm.js": "/vendors~HomeView~LoginForm~RegisterForm.js"
+}
